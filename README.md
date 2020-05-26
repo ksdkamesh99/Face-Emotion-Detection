@@ -11,3 +11,6 @@ A repository of notebooks  with cnn for identifying different emotions in differ
 ## 🏁 Datasets Used:  
 
 * FER2018 Dataset from kaggle. You can download from [here](https://www.kaggle.com/ashishpatel26/fer2018/download)
+
+## 📧Contact:-
+For any kind of suggesstions/ help in models code Please mail me at ksdkamesh99@gmail.com.
