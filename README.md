@@ -14,3 +14,6 @@ A repository of notebooks  with cnn for identifying different emotions in differ
 
 ## 📧Contact:-
 For any kind of suggesstions/ help in models code Please mail me at ksdkamesh99@gmail.com.
+
+## 📜 LICENSE
+[MIT](https://github.com/ksdkamesh99/Face-Emotion-Detection/blob/master/LICENSE)
